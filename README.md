@@ -24,7 +24,6 @@ https://www.meldaproduction.com/ an amazing plugins company that has a few free 
 https://surge-synth-team.org/ check out their open source projects they are amazing.
 
 **(VSTs):**
-
 https://labs.spitfireaudio.com/ LABS is a FREE infinite library of instruments you can use in your DAW whenever you want wherever you want, its just fucking amazing.
 
 https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/ FREE Instrument Library with high quality instruments it almost has every instrument you need/want. 
