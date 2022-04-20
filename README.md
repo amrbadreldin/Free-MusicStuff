@@ -2,7 +2,7 @@
 **(Royalty-Free Music):** 
 https://www.wirebeats.com/ basically seth everman hired some artists and made a small company that releases Copyright-free LoFi music, feel free to use their music however you want (commercially/privately).
 
-**(SFX): **
+**(SFX):**
 https://sonniss.com/gameaudiogdc HUMONGOUS library of SFX provided by sonniss in a collab with GDC, you can use this however you want (commercially/privately).
 
 **(Samples/Samplers): **
