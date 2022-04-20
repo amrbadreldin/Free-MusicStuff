@@ -5,7 +5,7 @@ https://www.wirebeats.com/ basically seth everman hired some artists and made a 
 **(SFX):**
 https://sonniss.com/gameaudiogdc HUMONGOUS library of SFX provided by sonniss in a collab with GDC, you can use this however you want (commercially/privately).
 
-**(Samples/Samplers): **
+**(Samples/Samplers):**
 https://www.pianobook.co.uk/ a gem of a website that has tons of free instrument samples
 
 https://www.decentsamples.com/product/decent-sampler-plugin/ good instrument sampler which can be used with the pianobook instruments you just installed.
@@ -19,14 +19,14 @@ https://www.adsrsounds.com/product/software/adsr-sample-manager/ see this as a s
 **(FX):** 
 https://www.meldaproduction.com/ an amazing plugins company that has a few free FX Plugins that are really well made, their stuff isn't really that expensive too.
 
-**(Open Source Software): **https://github.com/webprofusion/OpenAudio this is also a good list of open source VSTs 
+**(Open Source Software):** https://github.com/webprofusion/OpenAudio this is also a good list of open source VSTs 
 
 https://surge-synth-team.org/ check out their open source projects they are amazing.
 
-**(VSTs): **
+**(VSTs):**
 https://labs.spitfireaudio.com/ LABS is a FREE infinite library of instruments you can use in your DAW whenever you want wherever you want, its just fucking amazing.
 
 https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/ FREE Instrument Library with high quality instruments it almost has every instrument you need/want. 
 
-**(VST Presets): **
+**(VST Presets):**
 https://presetshare.com/ free presets website for your favorite synths or VSTs.
