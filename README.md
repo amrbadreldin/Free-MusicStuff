@@ -34,5 +34,5 @@ https://presetshare.com/ free presets website for your favorite synths or VSTs.
 (Music Theory)
 https://www.pianochord.org if you sometimes forget your chord progressions this can be helpful
 
-https://www.pianoscales.org/ really useful if you're trying to decide the chord progressions of the genre your using. 
+https://www.pianoscales.org/ really useful if you're trying to decide the chord progressions of the genre you're using. 
 
