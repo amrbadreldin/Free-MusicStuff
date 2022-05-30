@@ -5,6 +5,9 @@ https://www.wirebeats.com/ basically seth everman hired some artists and made a 
 **(SFX):**
 https://sonniss.com/gameaudiogdc HUMONGOUS library of SFX provided by sonniss in a collab with GDC, you can use this however you want (commercially/privately).
 
+https://thekount.sellfy.store/ a person known for making extremely sick drum samples and instruments check out their stuff almost 90% of their products are free so enjoy 
+
+
 **(Samples/Samplers):**
 https://www.pianobook.co.uk/ a gem of a website that has tons of free instrument samples
 
@@ -12,8 +15,6 @@ https://www.decentsamples.com/product/decent-sampler-plugin/ good instrument sam
 
 https://decomposer.de/sitala/ a free drum sampler that has a ableton-like UI and is so fucking good.
  
-https://thekount.sellfy.store/ a person known for making extremely sick drum samples and instruments check out their stuff almost 90% of their products are free so enjoy 
-
 https://www.adsrsounds.com/product/software/adsr-sample-manager/ see this as a sample manager for the millions of samples you have, its also kind of an alternative to Decent Sampler
 
 **(FX):** 
